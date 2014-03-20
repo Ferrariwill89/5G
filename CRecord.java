@@ -8,14 +8,6 @@ private Double estatura;
 /** Implementar constructores **/
 public cRecord(){}
 
-public cRecord(String c, String n, String a, Double p, Double e){
-   clave = c;
-   nombre = n;
-   apellido = a;
-   peso = p;
-   estatura = e;
-}
-
 /** Implementar setters **/
 
 /** Implementar getters **/
